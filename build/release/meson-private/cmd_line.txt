@@ -1,0 +1,7 @@
+[options]
+prefix = /home/javidefuentes/PAV
+libdir = lib
+buildtype = release
+
+[properties]
+
