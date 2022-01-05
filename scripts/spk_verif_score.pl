@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w
 
 $show_threshold_search = 1;
-$p_target = 0.1;            # Modificado por albino para dar menos peso a impostores (antes, $p_target=0.01)
+$p_target = 0.01;
 $N_thr = 100; #number of thresholds to test
 
 
