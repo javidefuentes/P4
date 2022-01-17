@@ -175,7 +175,7 @@ Complete el código necesario para entrenar modelos GMM.
 >```zsh
 >   plot_gmm_feat -x1 -y2 -p 99,90,50,10 -g seagreen -f darkorchid work/gmm/mfcc/SES008.gmm work/mfcc/BLOCK09/SES099/SA099S*
 ```
-<img src="img/comparacion_distintos_locutores" width="640" align="center">
+<img src="img/comparacion_distintos_locutores.png" width="640" align="center">
 
 ### Reconocimiento del locutor.
 
